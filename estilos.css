@@ -23,6 +23,22 @@ body {
   color: #555;
 }
 
+.button_enviar {
+	background-color: #8C003B;
+}
+
+.title_color{
+	color: #8C003B;
+}
+
+
+/* Estilos para la sección "Contacto" */
+
+#contacto {
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
+
 /* Estilos para la sección "Sobre Mí" */
 #sobre-mi {
   padding: 50px;
