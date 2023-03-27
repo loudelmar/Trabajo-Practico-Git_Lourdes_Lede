@@ -31,6 +31,13 @@ body {
 	color: #8C003B;
 }
 
+.logo{
+	width: 20%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 
 /* Estilos para la sección "Contacto" */
 
