@@ -13,11 +13,6 @@ body {
   padding: 50px;
 }
 
-#inicio h2 {
-  font-size: 36px;
-  margin-bottom: 20px;
-}
-
 #inicio p {
   font-size: 18px;
   color: #555;
@@ -27,8 +22,9 @@ body {
 	background-color: #8C003B;
 }
 
-.title_color{
+.title{
 	color: #8C003B;
+	font-size: 30px;
 }
 
 .logo{
@@ -59,12 +55,6 @@ nav{
 /* Estilos para la sección "Sobre Mí" */
 #sobre-mi {
   margin-left: 20px;
-}
-
-#sobre-mi h2 {
-  font-size: 36px;
-  margin-bottom: 20px;
-  color: #8C003B;
 }
 
 #sobre-mi p {
