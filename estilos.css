@@ -41,7 +41,7 @@ body {
 
 /* Estilos para el encabezado */
 header {
-  background-color: #333;
+  background-color: #CC7DF5;
   color: #fff;
   padding: 20px;
 }
@@ -78,7 +78,7 @@ nav a:hover {
 
 /* Estilos para el pie de página */
 footer {
-  background-color: #333;
+  background-color: #5C008C;
   color: #fff;
   padding: 20px;
   text-align: center;
