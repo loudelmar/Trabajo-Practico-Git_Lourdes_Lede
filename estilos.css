@@ -41,12 +41,13 @@ body {
 
 /* Estilos para la sección "Sobre Mí" */
 #sobre-mi {
-  padding: 50px;
+  margin-left: 20px;
 }
 
 #sobre-mi h2 {
   font-size: 36px;
   margin-bottom: 20px;
+  color: #8C003B;
 }
 
 #sobre-mi p {
